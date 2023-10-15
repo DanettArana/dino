@@ -11,7 +11,7 @@ import mx.itson.dino.entities.Topic;
 import mx.itson.dino.entities.User;
 
 /**
- * Representa un programa de simulación de una red social.
+ * Representa un programa de simulación de un foro.
  * Permite crear usuarios, categorías, publicaciones y comentarios, así como
  * realizar operaciones como dar "like" y mostrar información relacionada.
  * @author arana
